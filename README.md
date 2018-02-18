@@ -1,4 +1,3 @@
-# statistic  
-This repository is the process of leaning statistic  
-
-## Peterson 2009  
+# Petersen 2009  
+Estimating Standard Errors in Panel Data Sets  
+Repository include python notebook to replicate the method mentioned in Petersen's paper  
